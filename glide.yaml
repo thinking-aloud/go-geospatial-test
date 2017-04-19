@@ -1,0 +1,6 @@
+package: github.com/thinking-aloud/go-geospatial-test
+import:
+- package: github.com/paulsmith/gogeos
+  version: ~0.1.2
+- package: github.com/llgcode/draw2d
+- package: github.com/golang/freetype

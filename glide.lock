@@ -1,0 +1,25 @@
+hash: 0b73edea7f7600832473604c8c2470f1cb3ea349e65c8e371019b50e6e2f8a32
+updated: 2017-04-18T15:37:04.874064717+02:00
+imports:
+- name: github.com/golang/freetype
+  version: 255de57f4e681ed92b2d55a483a27194dfa2b3dc
+  subpackages:
+  - raster
+  - truetype
+- name: github.com/llgcode/draw2d
+  version: 1286d3b2030ac9952e59c5ef29ef3cc24a8e83d5
+  subpackages:
+  - draw2dbase
+  - draw2dimg
+- name: github.com/paulsmith/gogeos
+  version: 21f81b2ea5af44d3f6029cc3e5bbbd26b2425236
+  subpackages:
+  - geos
+- name: golang.org/x/image
+  version: a74d51e6d3d6edafd4357ba52106ac9a3ae8ebc3
+  subpackages:
+  - draw
+  - font
+  - math/f64
+  - math/fixed
+testImports: []
